@@ -1,4 +1,5 @@
-## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Swaraj Chaudhari!] 
+## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm Swaraj Chaudhari! 
+ ![Twitter Follow](https://img.shields.io/twitter/follow/swarajAhead?style=social)
  
  
  
