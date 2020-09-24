@@ -2,7 +2,7 @@
  ![Twitter Follow](https://img.shields.io/twitter/follow/swarajAhead?style=social)
  
 
-<img align="right" src="https://i.gifer.com/UXNQ.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="http://clipart-library.com/images/8iG5zgjia.gif" alt="Coder GIF" width="500" height="400">
 
 <a href="https://twitter.com/swarajAhead">
   <img align="left" alt="Swaraj Chaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
