@@ -1,4 +1,3 @@
-# Portfolio
 ## Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px">, I'm [Swaraj Chaudhari!] 
  
  
