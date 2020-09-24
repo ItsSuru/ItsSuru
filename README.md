@@ -24,7 +24,7 @@
 
 
 
-- :telescope: I'm currently studying BTech in CSE 💻;
+- :telescope: I'm pursuing BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning Data Science-ML and DL;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: swarajdc01@gmail.com;
