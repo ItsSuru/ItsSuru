@@ -4,7 +4,7 @@
  
  
 
-<img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif" alt="Coder GIF" width="500" height="400">
 
 <a href="https://twitter.com/swarajAhead">
   <img align="left" alt="Swaraj Chaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -31,7 +31,7 @@
 <br><br><br><br>
 
 ![](https://img.shields.io/badge/Data%20Science-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen)  <a href="https://github.com/ItsSuru">
-  <img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif" />
+  <img src="https://komarev.com/ghpvc/?username=ItsSuru&label=Views&color=blue&style=plastic" alt="ItsSuru" />
 </a>
 
 <br><br><br><br>
