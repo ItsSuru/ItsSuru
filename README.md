@@ -4,7 +4,7 @@
  
  
 
-<img align="right" src="https://www.animatedimages.org/data/media/56/animated-computer-image-0019.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F602075043925849022%2F&psig=AOvVaw3rBTUf2QwTau7wtCmNUEhv&ust=1601054387759000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODOrsSmguwCFQAAAAAdAAAAABAc" alt="Coder GIF" width="500" height="400">
 
 <a href="https://twitter.com/swarajAhead">
   <img align="left" alt="Swaraj Chaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
