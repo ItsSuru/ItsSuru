@@ -25,7 +25,7 @@
 - :telescope: I'm pursuing BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning Data Science-ML & DL;
 
-- 📫 How to reach me: swarajdc01@gmail.com;
+- 📫 How to reach me: swarajdc01@gmail.com ;
 <br><br><br><br>
 
 ![](https://img.shields.io/badge/Data%20Science-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/EXCEL-%7C-yellow) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen)  <a href="https://github.com/ItsSuru">
