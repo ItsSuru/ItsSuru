@@ -1,4 +1,4 @@
-## Hi <img src="https://tenor.com/view/hello-gif-7537923.gif" width="29px">, I'm Swaraj Chaudhari! 
+## Hi <img src="https://tenor.com/view/hello-gif-7537923.gif" width="29px">, I'm [Swaraj Chaudhari!](https://swarajchaudhari19.netlify.app/)
  ![Twitter Follow](https://img.shields.io/twitter/follow/swarajAhead?style=social)
  
 
