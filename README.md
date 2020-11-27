@@ -1,7 +1,7 @@
 ## Hi <img src="https://tenor.com/view/hello-gif-7537923.gif" width="29px">, I'm Swaraj Chaudhari!
  ![Twitter Follow](https://img.shields.io/twitter/follow/swarajAhead?style=social)
  
-
+<body style="background-color:powderblue;">
 <img align="right" src="http://clipart-library.com/images/8iG5zgjia.gif" alt="Coder GIF" width="400" height="300">
 
 <a href="https://twitter.com/swarajAhead">
