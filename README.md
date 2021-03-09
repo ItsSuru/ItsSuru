@@ -2,7 +2,7 @@
 
  <h3> Hello World !👋 </h3> 
 
- <h4>  I'm Swaraj Chaudhari, a human being who is passionate about simplifying things through technology.👋 </h4>  
+ <h4>  I'm [Swaraj Chaudhari](https://swarajchaudhari19.netlify.app/), a human being who is passionate about simplifying things through technology.👋 </h4>  
 
 - 🌱 Currently working on CP&AI
 - 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
