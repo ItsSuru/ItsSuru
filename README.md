@@ -9,7 +9,7 @@
 - 😄 Pronouns: Passionate | Ambitious | Sarcastic
 - 📫 How to reach me - [swarajdc01@gmail.com](mailto:swarajdc01@gmail.com) 
 - 🎮 I love to play video games
-- ⚡ Fun fact: Sadly there isn't anything fun about me!
+- ⚡ Fun fact: Be my friend you will get to know!
 - ![](https://komarev.com/ghpvc/?username=ItsSuru&color=blue)
 <hr />
 
