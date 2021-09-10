@@ -1,36 +1,49 @@
-## Hi <img src="https://tenor.com/view/hello-gif-7537923.gif" width="29px">, I'm Swaraj Chaudhari!
- ![Twitter Follow](https://img.shields.io/twitter/follow/swarajAhead?style=social)
+ <h1> Welcome to my Github </h1>
+
+ <h3> Hello World !👋 </h3> 
+
+ <h4>  I'm Swaraj Chaudhari, a human being who is passionate about simplifying things through technology.👋 </h4>  
+
+- 🌱 Currently working on CP&AI
+- 🥅 2021 Goals : Have a good CP profile & Contribute to Open Source projects
+- 😄 Pronouns: Passionate | Ambitious | Sarcastic
+- 📫 How to reach me - [swarajdc01@gmail.com](mailto:swarajdc01@gmail.com) 
+- 🎮 I love to play video games
+- ⚡ Fun fact: Sadly there isn't anything fun about me!
+- ![](https://komarev.com/ghpvc/?username=ItsSuru&color=blue)
+<hr />
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=ItsSuru&theme=highcontrast&show_icons=true&count_private=true)
+
+
+ ### Competitive Profiles
+
+<a href="https://www.hackerrank.com/swarajdc01">
+  <img align="left" alt="Swaraj Chaudhari| Hackerrank" height="50 "width="40px" src="https://github.com/ItsSuru/Personal-Portfolio/blob/master/assets/hr.svg" />
+</a>
+<a href="https://www.codechef.com/users/suru_19">
+  <img align="left" alt="Swaraj Chaudhari | Codechef" height="50 width="40px" src="https://github.com/ItsSuru/Personal-Portfolio/blob/master/assets/cc.png" />
+</a>
+<a href="https://codeforces.com/profile/ItsSuru">
+  <img align="left" alt="Swaraj Chaudhari | Kaggle" height="50 width="40px" src="https://github.com/ItsSuru/Personal-Portfolio/blob/master/assets/code.png" />
+</a>
+<a href="https://www.kaggle.com/itssuru">
+  <img align="left" alt="Swaraj Chaudhari | Kaggle" height="50 width="40px" src="https://github.com/ItsSuru/Personal-Portfolio/blob/master/assets/123.png" />
+</a>
+<br/>
+<br/>
+
  
 
-<img align="right" src="http://clipart-library.com/images/8iG5zgjia.gif" alt="Coder GIF" width="400" height="300">
+ ### Connect w/ Me
 
-<a href="https://twitter.com/swarajAhead">
-  <img align="left" alt="Swaraj Chaudhari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/swaraj-chaudhari-860803180/">
-  <img align="left" alt="Swaraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/chaudhari.swaraj/">
-  <img align="left" alt="Swaraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br><br>
-
-
-
-
-
-
-- :telescope: I'm pursuing BTech in CSE 💻;
-- :hourglass_flowing_sand: Learning Data Science-ML & DL;
-
-- 📫 How to reach me: swarajdc01@gmail.com 
-<br><br><br><br>
-
-![](https://img.shields.io/badge/Data%20Science-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/EXCEL-%7C-green) ![](https://img.shields.io/badge/Power%20BI-%7C-yellow) ![](https://img.shields.io/badge/Business%20English-%7C-yellowgreen)  <a href="https://github.com/ItsSuru">
-  <img src="https://komarev.com/ghpvc/?username=ItsSuru&label=Views&color=blue&style=plastic" alt="ItsSuru" />
-</a>
-
-<br><br><br><br>
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=ItsSuru&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /> <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsSuru&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
-
-
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:swarajdc01@gmail.com)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+                                                                                                                                                                                                                                                                                
+[facebook]: https://www.facebook.com/profile.php?id=100009179544118
+[instagram]: https://www.instagram.com/chaudhari.swaraj/
+[linkedin]: https://www.linkedin.com/in/swaraj-chaudhari-860803180/
